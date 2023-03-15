@@ -1,0 +1,53 @@
+1677724205.362235
+<socket.socket fd=6, family=2, type=1, proto=0, laddr=('127.0.0.1', 5001), raddr=('127.0.0.1', 60153)>
+Hi...1677724891.806322
+<socket.socket fd=6, family=2, type=1, proto=0, laddr=('127.0.0.1', 5001), raddr=('127.0.0.1', 60240)>
+Hello kelompok 101677909677.646784
+<socket.socket fd=6, family=2, type=1, proto=0, laddr=('127.0.0.1', 5001), raddr=('127.0.0.1', 51372)>
+hello1677909740.918946
+<socket.socket fd=6, family=2, type=1, proto=0, laddr=('127.0.0.1', 5001), raddr=('127.0.0.1', 51378)>
+Dentaa1677910346.750805
+<socket.socket fd=6, family=2, type=1, proto=0, laddr=('127.0.0.1', 5005), raddr=('127.0.0.1', 51437)>
+fatih1677910379.247077
+<socket.socket fd=6, family=2, type=1, proto=0, laddr=('127.0.0.1', 5005), raddr=('127.0.0.1', 51440)>
+fatih1677910435.808439
+<socket.socket fd=6, family=2, type=1, proto=0, laddr=('127.0.0.1', 5005), raddr=('127.0.0.1', 51448)>
+Hello Fatih1677910470.16099
+<socket.socket fd=6, family=2, type=1, proto=0, laddr=('127.0.0.1', 5005), raddr=('127.0.0.1', 51457)>
+HelloDen1677910596.463399
+<socket.socket fd=6, family=2, type=1, proto=0, laddr=('127.0.0.1', 5005), raddr=('127.0.0.1', 51471)>
+helloooguys1677910666.940428
+<socket.socket fd=6, family=2, type=1, proto=0, laddr=('127.0.0.1', 5005), raddr=('127.0.0.1', 51481)>
+Dentaygy1677910862.543453
+<socket.socket fd=6, family=2, type=1, proto=0, laddr=('127.0.0.1', 5005), raddr=('127.0.0.1', 51501)>
+haii1677911017.952106
+<socket.socket fd=6, family=2, type=1, proto=0, laddr=('127.0.0.1', 5005), raddr=('127.0.0.1', 51529)>
+HelloHayyy1677911266.745262
+<socket.socket fd=6, family=2, type=1, proto=0, laddr=('127.0.0.1', 5005), raddr=('127.0.0.1', 51600)>
+acklog1677911338.819398
+<socket.socket fd=6, family=2, type=1, proto=0, laddr=('127.0.0.1', 5005), raddr=('127.0.0.1', 51610)>
+asklog1677911415.967447
+<socket.socket fd=6, family=2, type=1, proto=0, laddr=('127.0.0.1', 5005), raddr=('127.0.0.1', 51638)>
+asklog1677911491.841
+<socket.socket fd=6, family=2, type=1, proto=0, laddr=('127.0.0.1', 5005), raddr=('127.0.0.1', 51647)>
+asklog1677911544.528865
+<socket.socket fd=6, family=2, type=1, proto=0, laddr=('127.0.0.1', 5005), raddr=('127.0.0.1', 51650)>
+asklog
+1677911590.351287
+<socket.socket fd=6, family=2, type=1, proto=0, laddr=('127.0.0.1', 5005), raddr=('127.0.0.1', 51655)>
+asklog
+1677911618.116587
+<socket.socket fd=6, family=2, type=1, proto=0, laddr=('127.0.0.1', 5002), raddr=('127.0.0.1', 51659)>
+asklog
+1677911703.591698
+<socket.socket fd=6, family=2, type=1, proto=0, laddr=('127.0.0.1', 5002), raddr=('127.0.0.1', 51679)>
+asklog
+1677911774.620596
+<socket.socket fd=6, family=2, type=1, proto=0, laddr=('127.0.0.1', 5002), raddr=('127.0.0.1', 51690)>
+asklog
+1677912814.344374
+<socket.socket fd=6, family=2, type=1, proto=0, laddr=('127.0.0.1', 5002), raddr=('127.0.0.1', 51848)>
+Hai Progjar IUP 2023
+1677912975.708377
+<socket.socket fd=6, family=2, type=1, proto=0, laddr=('127.0.0.1', 5002), raddr=('127.0.0.1', 51862)>
+asklog
